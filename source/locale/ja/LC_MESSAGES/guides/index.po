@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-present, NEM
+# This file is distributed under the same license as the symbol-docs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Yoshiyuki Ieyama <yukku0423+github@gmail.com>, 2021
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: symbol-docs 0.22.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-22 06:48+0000\n"
+"PO-Revision-Date: 2021-08-30 14:48+0000\n"
+"Last-Translator: Yoshiyuki Ieyama <yukku0423+github@gmail.com>, 2021\n"
+"Language-Team: Japanese (https://www.transifex.com/nemtech/teams/95744/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/guides/index.rst:3
+msgid "Guides"
+msgstr "ガイド"
+
+#: ../../source/guides/index.rst:17
+msgid ""
+"The guides are further divided into the following **topics**. To see the "
+"guides grouped by **tags** instead, see the `complete guides catalog "
+"<https://docs.symbolplatform.com/guides/category.html>`__."
+msgstr ""
+"ガイドは次の **トピック** に分割されています。 **タグ** でグループ化されたガイドを表示するには `ガイドカタログ "
+"<https://docs.symbolplatform.com/guides/category.html>`__ を参照してください。"
+
+#: ../../source/guides/account/index.rst:1
+msgid "Guides related to :doc:`account <../../concepts/account>` handling."
+msgstr ":doc:`アカウント <../../concepts/account>` の扱いに関するガイド"
+
+#: ../../source/guides/aggregate/index.rst:1
+msgid ""
+"Guides related to :doc:`aggregate transaction <../../concepts/aggregate-"
+"transaction>` handling."
+msgstr ""
+":doc:`アグリゲートトランザクション <../../concepts/aggregate-transaction>` の扱いに関するガイド"
+
+#: ../../source/guides/blockchain/index.rst:1
+msgid "Guides related to the handling the blockchain itself."
+msgstr "ブロックチェーンの扱いに関するガイド"
+
+#: ../../source/guides/harvesting/index.rst:1
+msgid ""
+"|codename| supports **different harvesting methods** depending on whether "
+"you own a node or not, and the tools you want to use to enable it."
+msgstr ""
+"|codename| はノードを所有しているかどうか、有効のために使用するツールに応じて **異なるハーベスティング方法** がサポートされています。"
+
+#: ../../source/guides/metadata/index.rst:1
+msgid "Guides related to :doc:`metadata <../../concepts/metadata>` handling."
+msgstr ":doc:`メタデータ <../../concepts/metadata>` の扱いに関するガイド"
+
+#: ../../source/guides/migration/index.rst:1
+msgid "Guides related to migrating from NIS1 to |codename|."
+msgstr "NIS1 から |codename| へ移行に関するガイド"
+
+#: ../../source/guides/monitor/index.rst:1
+msgid "Guides related to monitoring transactions."
+msgstr "トランザクションの監視に関するガイド"
+
+#: ../../source/guides/mosaic/index.rst:1
+msgid "Guides related to :doc:`mosaics <../../concepts/mosaic>` handling."
+msgstr ":doc:`モザイク <../../concepts/mosaic>` の扱いに関するガイド"
+
+#: ../../source/guides/multisig/index.rst:1
+msgid ""
+"Guides related to :doc:`multisignature account <../../concepts/multisig-"
+"account>` (multisig) handling."
+msgstr ""
+":doc:`マルチシグネチャアカウント <../../concepts/multisig-account>` (マルチシグ) の扱いに関するガイド"
+
+#: ../../source/guides/namespace/index.rst:1
+msgid ""
+"Guides related to :doc:`namespace <../../concepts/namespace>` handling."
+msgstr ":doc:`ネームスペース <../../concepts/namespace>` の扱いに関するガイド"
+
+#: ../../source/guides/network/index.rst:1
+msgid "Guides related to creating nodes and test networks."
+msgstr "ノードの作成とテストネットワークの扱いに関するガイド"
+
+#: ../../source/guides/restriction/index.rst:1
+msgid ""
+"Guides related to :doc:`mosaic restrictions <../../concepts/mosaic-"
+"restriction>` handling."
+msgstr ":doc:`モザイク制限 <../../concepts/mosaic-restriction>` の扱いに関するガイド"
+
+#: ../../source/guides/secretlock/index.rst:1
+msgid "Guides related to secret lock handling."
+msgstr "シークレットロックの扱いに関するガイド"
+
+#: ../../source/guides/transfer/index.rst:1
+msgid ""
+"Guides related to :doc:`transfer transactions <../../concepts/transfer-"
+"transaction>` handling."
+msgstr ":doc:`転送トランザクション <../../concepts/transfer-transaction>` の扱いに関するガイド"
+
+#: ../../source/guides/exchanges/index.rst:1
+msgid "Guides related to integrating |codename| with an Exchange."
+msgstr "|codename| と取引所との統合に関するガイド"

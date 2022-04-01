@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-present, NEM
+# This file is distributed under the same license as the symbol-docs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Yoshiyuki Ieyama <yukku0423+github@gmail.com>, 2021
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: symbol-docs 0.22.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-22 12:01+0000\n"
+"PO-Revision-Date: 2019-11-25 18:19+0000\n"
+"Last-Translator: Yoshiyuki Ieyama <yukku0423+github@gmail.com>, 2021\n"
+"Language-Team: Japanese (https://www.transifex.com/nemtech/teams/95744/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/index.rst:9
+msgid "Technical Documentation"
+msgstr "テクニカルドキュメント"
+
+#: ../../source/index.rst:11
+msgid ""
+"Welcome to |codename|'s **technical documentation site**, your primary "
+"source of information to integrate |codename|'s blockchain technology into "
+"your projects."
+msgstr ""
+"|codename| のブロックチェーンテクノロジーをプロジェクトに統合するための情報源である |codename| の "
+"**テクニカルドキュメントサイト** へようこそ。"
+
+#: ../../source/index.rst:13
+msgid ""
+"All content is accessible through the **navigation menu**, which is divided "
+"into the following sections:"
+msgstr "セクションごとに分かれているすべてのコンテンツには、 **ナビゲーションメニュー** からアクセスできます。"
+
+#: ../../source/index.rst:15
+msgid ":doc:`Getting Started <getting-started/index>`: Introductory material."
+msgstr ":doc:`入門 <getting-started/index>`: 入門教材"
+
+#: ../../source/index.rst:16
+msgid ""
+":doc:`Guides <guides/index>`: Step-by-step tutorials focused on use-cases."
+msgstr ":doc:`ガイド <guides/index>`: ユースケースに注目したステップ・バイ・ステップチュートリアル"
+
+#: ../../source/index.rst:17
+msgid ""
+":doc:`Concepts <concepts/overview>`: Detailed explanation of |codename|'s "
+"most important ideas."
+msgstr ":doc:`コンセプト <concepts/overview>`: |codename| の重要なアイディアの詳細な説明"
+
+#: ../../source/index.rst:18
+msgid ""
+":doc:`References <references/index>`: Usage guides for |codename|'s tools "
+"and SDKs."
+msgstr ":doc:`リファレンス <references/index>`: |codename| のツールや SDK の利用ガイド"
+
+#: ../../source/index.rst:19
+msgid ""
+":doc:`Contribute <contribute/index>`: How to contribute to this project."
+msgstr ":doc:`貢献 <contribute/index>`: プロジェクトへ貢献する方法"
+
+#: ../../source/index.rst:20
+msgid ""
+":doc:`Syndicate's handbook <handbook/index>`: Instructions for all pirates "
+"and people interested in the Syndicate."
+msgstr ":doc:`シンジケートハンドブック <handbook/index>`: シンジケートに関心がある、すべての海賊と人々への指示"
+
+#: ../../source/index.rst:24
+msgid ":doc:`Install the Symbol Desktop Wallet <wallets>`"
+msgstr ":doc:`Symbol デスクトップウォレットをインストール <wallets>`"
+
+#: ../../source/index.rst:25
+msgid ""
+":doc:`Retrieving your XYM after Opt-In <guides/migration/post-optin-xym-"
+"retrieval>`"
+msgstr ":doc:`オプトイン後に XYM を取得する <guides/migration/post-optin-xym-retrieval>`"

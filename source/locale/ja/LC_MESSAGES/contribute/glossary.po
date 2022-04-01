@@ -1,0 +1,501 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-present, NEM
+# This file is distributed under the same license as the symbol-docs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Radio, 2021
+# Yoshiyuki Ieyama <yukku0423+github@gmail.com>, 2021
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: symbol-docs 0.22.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-26 09:18+0000\n"
+"PO-Revision-Date: 2020-12-18 17:38+0000\n"
+"Last-Translator: Yoshiyuki Ieyama <yukku0423+github@gmail.com>, 2021\n"
+"Language-Team: Japanese (https://www.transifex.com/nemtech/teams/95744/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/contribute/glossary.rst:3
+msgid "Glossary"
+msgstr "用語集"
+
+#: ../../source/contribute/glossary.rst:6
+msgid "Absolute Amount"
+msgstr "絶対総量"
+
+#: ../../source/contribute/glossary.rst:9
+msgid "Account"
+msgstr "アカウント"
+
+#: ../../source/contribute/glossary.rst:11
+msgid ""
+"A container for assets, which can only be modified with its private key. An "
+"account always has two keys (private and public) and an address. Read "
+":doc:`more <../concepts/account>`."
+msgstr ""
+"アカウントは秘密鍵によってだけ変更ができるアセットのコンテナです。アカウントには常に 2 つのキー (プライベートとパブリック) とアドレスを持ちます。"
+" :doc:`詳細 <../concepts/account>` を参照してください。"
+
+#: ../../source/contribute/glossary.rst:12
+msgid "Account Link Transaction"
+msgstr "アカウントリンクトランザクション"
+
+#: ../../source/contribute/glossary.rst:15
+msgid "Account Restrictions"
+msgstr "アカウント制限"
+
+#: ../../source/contribute/glossary.rst:17
+msgid ""
+"A configurable set of smart rules to block announcing or receiving "
+"transactions for a specific account. Read :doc:`more <../concepts/account-"
+"restriction>`"
+msgstr ""
+"ブロックのアナウンスや特定のアカウントへのトランザクションの受信へ対する設定可能なスマートなルールです。 :doc:`詳細 <../concepts"
+"/account-restriction>` を参照してください。"
+
+#: ../../source/contribute/glossary.rst:18
+msgid "Aggregate Bonded (partial transaction)"
+msgstr "アグリゲートボンド (パーシャルトランザクション)"
+
+#: ../../source/contribute/glossary.rst:20
+msgid ""
+"An Aggregate Transaction is bonded when it requires signatures from multiple"
+" participants. Read :ref:`more <aggregate-bonded>`."
+msgstr ""
+"他の参加者からの署名が必要な場合、アグリゲートトランザクションは **ボンデッド** になります。 :ref:`詳細 <aggregate-"
+"bonded>` を参照してください。"
+
+#: ../../source/contribute/glossary.rst:21
+msgid "Aggregate Complete"
+msgstr "アグリゲートコンプリート"
+
+#: ../../source/contribute/glossary.rst:23
+msgid ""
+"An Aggregate Transaction is complete when all the required participants have"
+" signed it. Read :ref:`more <aggregate-complete>`."
+msgstr ""
+"要求されている参加者全員が署名をすると、アグリゲートトランザクションはコンプリートになります。 :ref:`詳細 <aggregate-"
+"complete>` を参照してください。"
+
+#: ../../source/contribute/glossary.rst:24
+msgid "Aggregate Transaction"
+msgstr "アグリゲートトランザクション"
+
+#: ../../source/contribute/glossary.rst:26
+msgid ""
+"A type of transaction that merges multiple transactions into one by "
+"generating a one-time disposable smart contract. Read :doc:`more "
+"<../concepts/aggregate-transaction>`."
+msgstr ""
+"ワンタイムの破棄可能なスマートコントラクトを作成することで、複数のトランザクションを一つのトランザクションへマージしたトランザクションタイプです。:doc:`詳細"
+" <../concepts/aggregate-transaction>` を参照してください。"
+
+#: ../../source/contribute/glossary.rst:30
+msgid "Alias"
+msgstr "エイリアス"
+
+#: ../../source/contribute/glossary.rst:35
+msgid "Ask Me Anything. An open questions session."
+msgstr "Ask Me Anything。公開質疑応答。"
+
+#: ../../source/contribute/glossary.rst:38
+msgid "Anti-Money Laundering."
+msgstr "アンチマネーロンダリング"
+
+#: ../../source/contribute/glossary.rst:44
+msgid "Asia and Pacific region."
+msgstr "アジアと太平洋地域"
+
+#: ../../source/contribute/glossary.rst:45
+msgid "API Nodes"
+msgstr "API ノード"
+
+#: ../../source/contribute/glossary.rst:50
+msgid "Annual Percentage Rate."
+msgstr "年換算利回り"
+
+#: ../../source/contribute/glossary.rst:51
+msgid "Arbitrage"
+msgstr "アービトラージ"
+
+#: ../../source/contribute/glossary.rst:53
+msgid ""
+"When a trader purchases an asset in one place and sells it in another place "
+"to profit from a deviation in natural prices between markets."
+msgstr "トレーダーが資産をあるところで購入し、別のところで売却することで、市場間に発生する価格差から利益を得ること。"
+
+#: ../../source/contribute/glossary.rst:54
+msgid "Automated Delegated Harvester Detection"
+msgstr "デリゲートハーベスターの自動検出"
+
+#: ../../source/contribute/glossary.rst:57
+msgid "Backrunning"
+msgstr "バックランニング"
+
+#: ../../source/contribute/glossary.rst:65
+msgid "Bitcoin."
+msgstr "ビットコイン"
+
+#: ../../source/contribute/glossary.rst:66
+msgid "Catapult"
+msgstr "カタパルト"
+
+#: ../../source/contribute/glossary.rst:68
+msgid ""
+"The original project alias for :term:`NEM` 2.0 - later labeled as Symbol."
+msgstr ":term:`NEM` 2.0 のオリジナルプロジェクト名 - 後に Symbol となりました。"
+
+#: ../../source/contribute/glossary.rst:71
+msgid "Central Bank Digital Currency."
+msgstr "中央銀行デジタル通貨"
+
+#: ../../source/contribute/glossary.rst:74
+msgid ""
+"Command-Line Interface. A Program which is entirely used from a terminal "
+"console, using only the keyboard. Symbol has a CLI tool to interact with the"
+" blockchain. Read :doc:`more <../cli>`."
+msgstr ""
+"コマンドラインインターフェイス。キーボードだけを使い、完全にターミナルコンソールで使用するプログラムのこと。Symbol "
+"にはブロックチェーンと疎通するための CLI ツールがあります。 :doc:`より詳細 <../cli>` を参照してください。"
+
+#: ../../source/contribute/glossary.rst:77
+msgid "Coin Market Cap. A web page."
+msgstr "コインマーケットキャップ。ウェブページ。"
+
+#: ../../source/contribute/glossary.rst:78
+msgid "Cosignatories"
+msgstr "連署者"
+
+#: ../../source/contribute/glossary.rst:80
+msgid ""
+"Accounts that act as account managers to :doc:`multisig accounts "
+"<../concepts/multisig-account>`. Cosignatories need to sign multisig account"
+" transactions before they can be announced to the network."
+msgstr ""
+":doc:`マルチシグアカウント <../concepts/multisig-account>` "
+"のアカウントマネージャとして機能するアカウント。連署者はネットワークにアナウンスする前に、マルチシグアカウントトランザクションに署名する必要があります。"
+
+#: ../../source/contribute/glossary.rst:81
+msgid "Cosign"
+msgstr "連署名"
+
+#: ../../source/contribute/glossary.rst:83
+msgid "The act providing a signature to approve a transaction."
+msgstr "トランザクションを承認するための署名を提供する行為。"
+
+#: ../../source/contribute/glossary.rst:84
+msgid "Cross Chain Swap"
+msgstr "クロスチェーンスワップ"
+
+#: ../../source/contribute/glossary.rst:86
+msgid ""
+"A built-in feature of Symbol which enables the trading of tokens across "
+"different blockchains without using an intermediary party (e.g. an exchange "
+"service). Read :doc:`more <../concepts/cross-chain-swaps>`."
+msgstr ""
+"第三者 (交換サービスなど) を使用せずに、異なるブロックチェーン間でトークンを取引できる Symbol の組み込み機能。 :doc:`詳細 "
+"<../concepts/cross-chain-swaps>` を参照してください。"
+
+#: ../../source/contribute/glossary.rst:92
+msgid "Decentralized Autonomous Organization."
+msgstr "分散型自立型組織"
+
+#: ../../source/contribute/glossary.rst:98
+msgid "Due Diligence."
+msgstr "デューディリジェンス"
+
+#: ../../source/contribute/glossary.rst:105
+msgid "Delegated Harvesting"
+msgstr "デリゲートハーベスティング"
+
+#: ../../source/contribute/glossary.rst:107
+msgid ""
+"A method of harvesting that allows users to receive rewards without having "
+"to run a node locally by delegating their importance scores to a brand new "
+"proxy account. Read :ref:`more <delegated-harvesting>`."
+msgstr ""
+"インポータンススコアを新しいプロキシアカウントに委任することにより、ユーザがノードをローカルで実行しなくても報酬を受け取ることができるハーベスト方法。 "
+":ref:`詳細 <delegated-harvesting>` を参照してください。"
+
+#: ../../source/contribute/glossary.rst:116
+msgid ""
+"The property of mosaics that enable fractional amounts. The number of "
+"divisibility refers to the decimal place to which the mosaic can be divided."
+msgstr "モザイクの小数分割を可能にするプロパティ。可分性はモザイクを分割できる小数点以下の桁数を指定します。"
+
+#: ../../source/contribute/glossary.rst:122
+msgid ""
+"Length of time measured in :doc:`blocks <../concepts/block>`. Each block on "
+"the Symbol blockchain takes about 30 seconds to harvest."
+msgstr ""
+"Length of time measured in :doc:`ブロック <../concepts/block>` "
+"で測定された時間の長さ。Symbol ブロックチェーンの各ブロックはおよそ30秒ごとにハーベストされます。"
+
+#: ../../source/contribute/glossary.rst:126
+msgid "Effective Fee"
+msgstr "実行手数料"
+
+#: ../../source/contribute/glossary.rst:141
+msgid "Fee Multiplier"
+msgstr "手数料乗数"
+
+#: ../../source/contribute/glossary.rst:153
+msgid "Global Restriction"
+msgstr "グローバル制限"
+
+#: ../../source/contribute/glossary.rst:156
+msgid "Harvester"
+msgstr "ハーベスタ"
+
+#: ../../source/contribute/glossary.rst:159
+msgid "Harvesting Beneficiary"
+msgstr "ハーベスティング受益者"
+
+#: ../../source/contribute/glossary.rst:161
+msgid ""
+"An account determined by the node operator that shares a portion of the "
+"block rewards."
+msgstr "ノードオペレーターが指定する、ブロック報酬の一部を共有するアカウント。"
+
+#: ../../source/contribute/glossary.rst:162
+msgid "Harvesting"
+msgstr "ハーベスティング"
+
+#: ../../source/contribute/glossary.rst:164
+msgid ""
+"The process of creating new blocks on the Symbol blockchain. Read :doc:`more"
+" <../concepts/harvesting>`."
+msgstr ""
+"Symbol ブロックチェーンにおいての新しいブロックを作成するプロセスです。 :doc:`詳細 <../concepts/harvesting>` "
+"を参照してください。"
+
+#: ../../source/contribute/glossary.rst:165
+msgid "Hash Lock Transaction"
+msgstr "ハッシュロックトランザクション"
+
+#: ../../source/contribute/glossary.rst:177
+msgid "Importance Score"
+msgstr "インポータンススコア"
+
+#: ../../source/contribute/glossary.rst:180
+msgid "Inflation"
+msgstr "インフレーション"
+
+#: ../../source/contribute/glossary.rst:201
+msgid "Local Harvesting"
+msgstr "ローカルハーベスティング"
+
+#: ../../source/contribute/glossary.rst:203
+msgid ""
+"A method of :doc:`harvesting <../concepts/harvesting>` executed by running a"
+" local node."
+msgstr "ローカルノードで :doc:`ハーベスティング <../concepts/harvesting>` を実行する方法"
+
+#: ../../source/contribute/glossary.rst:207
+msgid "Maximum Fee"
+msgstr "最大手数料"
+
+#: ../../source/contribute/glossary.rst:209
+msgid ""
+"The maximum :doc:`fee <../concepts/fees>` allowed by the sender to be paid "
+"for this transaction to be confirmed in a block."
+msgstr "トランザクションが承認されるために許可する、送信者によって支払われる、最大 :doc:`手数料 <../concepts/fees>` 。"
+
+#: ../../source/contribute/glossary.rst:210
+msgid "Merkle Tree"
+msgstr "マークル木"
+
+#: ../../source/contribute/glossary.rst:213
+msgid "Messaging"
+msgstr "メッセージ"
+
+#: ../../source/contribute/glossary.rst:215
+msgid ""
+"The ability to attach text strings to :doc:`transactions <../concepts"
+"/transfer-transaction>`."
+msgstr ":doc:`トランザクション <../concepts/transfer-transaction>` にテキスト文字列を添付する機能"
+
+#: ../../source/contribute/glossary.rst:216
+msgid "Metadata"
+msgstr "メタデータ"
+
+#: ../../source/contribute/glossary.rst:218
+msgid ""
+"Additional information that can be attached to accounts, mosaics, or "
+"namespaces. Read :doc:`more <../concepts/metadata>`."
+msgstr "アカウントやモザイクに添付される追加情報です。 :doc:`詳細 <../concepts/metadata>` を参照してください。"
+
+#: ../../source/contribute/glossary.rst:222
+msgid "Minimum Approval"
+msgstr "最小承認数"
+
+#: ../../source/contribute/glossary.rst:225
+msgid "Minimum Removal"
+msgstr "最小削除数"
+
+#: ../../source/contribute/glossary.rst:228
+msgid "Mosaic Restriction"
+msgstr "モザイク制限"
+
+#: ../../source/contribute/glossary.rst:230
+msgid ""
+"A feature that allows mosaic creators to control which accounts can transact"
+" with the asset. It only affects mosaics with the restrictable property "
+"enabled explicitly at the moment of creation. Read :doc:`more <../concepts"
+"/mosaic-restriction>`."
+msgstr ""
+"モザイク作成者にアカウントがアセットを使った取引を制御できるようにする機能。これは作成時に明示的に有効化された制限可能プロパティを持つモザイクにのみ影響します。"
+" :doc:`詳細 <../concepts/mosaic-restriction>` を参照してください。"
+
+#: ../../source/contribute/glossary.rst:234
+msgid "Multi-level Multisignature Account"
+msgstr "マルチレベルマルチシグネチャアカウント"
+
+#: ../../source/contribute/glossary.rst:237
+msgid "Multisignature (Multisig) Account"
+msgstr "マルチシグネチャ (マルチシグ) アカウント"
+
+#: ../../source/contribute/glossary.rst:239
+msgid ""
+"Accounts that require additional signatures (from cosignatories) to initiate"
+" actions/transfers. Read :doc:`more <../concepts/multisig-account>`."
+msgstr ""
+"アクション / 転送の開始に (連署者からの) 追加署名が必要なアカウントです。 :doc:`詳細 <../concepts/multisig-"
+"account>` を参照してください。"
+
+#: ../../source/contribute/glossary.rst:240
+msgid "Namespaces"
+msgstr "ネームスペース"
+
+#: ../../source/contribute/glossary.rst:242
+msgid ""
+"Unique domain spaces on the Symbol blockchain which can be linked to Symbol "
+"accounts or mosaics. Functions similarly to internet domains. Read "
+":doc:`more <../concepts/namespace>`."
+msgstr ""
+"Symbol ブロックチェーン上の一意なドメインスペース。Symbol "
+"アカウントまたはモザイクにリンクできます。インターネットドメインと同様に機能します。 :doc:`詳細 <../concepts/namespace>`"
+" を参照してください。"
+
+#: ../../source/contribute/glossary.rst:252
+msgid "Network Fee Sink"
+msgstr "ネットワーク手数料シンク"
+
+#: ../../source/contribute/glossary.rst:264
+msgid "Node Banning"
+msgstr "ノード拒否"
+
+#: ../../source/contribute/glossary.rst:267
+msgid "Node Reputation"
+msgstr "ノードレピュテーション"
+
+#: ../../source/contribute/glossary.rst:278
+msgid "Off-chain"
+msgstr "オフチェーン"
+
+#: ../../source/contribute/glossary.rst:287
+msgid "Peer Nodes"
+msgstr "Peer ノード"
+
+#: ../../source/contribute/glossary.rst:308
+msgid "Private Key"
+msgstr "秘密鍵"
+
+#: ../../source/contribute/glossary.rst:311
+msgid "Public Key"
+msgstr "公開鍵"
+
+#: ../../source/contribute/glossary.rst:313
+msgid ""
+"The public identifier of the key pair, which can be disseminated widely. It "
+"is used to prove that a transaction was signed with the paired private key. "
+"The public key is cryptographically derived from the private key."
+msgstr ""
+"広く播種させることのできるキーペアの公開識別子です。対となる秘密鍵でトランザクションが署名されていることを証明します。公開鍵は秘密鍵から暗号的に導出できます。"
+
+#: ../../source/contribute/glossary.rst:314
+msgid "Receipt"
+msgstr "レシート"
+
+#: ../../source/contribute/glossary.rst:317
+msgid "Reference Mosaic"
+msgstr "リファレンスモザイク"
+
+#: ../../source/contribute/glossary.rst:323
+msgid "Rental Fee"
+msgstr "レンタル手数料"
+
+#: ../../source/contribute/glossary.rst:326
+msgid "Rollback"
+msgstr "ロールバック"
+
+#: ../../source/contribute/glossary.rst:328
+msgid ""
+"The act of undoing a :doc:`block(s) <../concepts/block>` that was previously"
+" confirmed."
+msgstr "以前に承認された :doc:`ブロック <../concepts/block>` を元に戻す行為。"
+
+#: ../../source/contribute/glossary.rst:338
+msgid "Secret Lock Transaction"
+msgstr "シークレットロックトランザクション"
+
+#: ../../source/contribute/glossary.rst:341
+msgid "Secret Proof Transaction"
+msgstr "シークレットプルーフトランザクション"
+
+#: ../../source/contribute/glossary.rst:347
+msgid "Spam Throttle"
+msgstr "スパムスロットル"
+
+#: ../../source/contribute/glossary.rst:349
+msgid ""
+"A feature which provides Symbol network protection against being spammed "
+"with lots of unconfirmed transactions."
+msgstr "大量の未確認のトランザクションでスパムされることに対して Symbol ネットワークの保護を提供する機能。"
+
+#: ../../source/contribute/glossary.rst:350
+msgid "Subnamespaces"
+msgstr "サブネームスペース"
+
+#: ../../source/contribute/glossary.rst:356
+msgid "Symbol Extensions"
+msgstr "Symbol 拡張"
+
+#: ../../source/contribute/glossary.rst:364
+msgid ""
+"Security protocol used to encrypting communication between peers on the "
+"Symbol blockchain."
+msgstr "Symbol ブロックチェーン上でピア間の通信を暗号化するために使用されるセキュリティプロトコル。"
+
+#: ../../source/contribute/glossary.rst:371
+msgid "Transaction Plugins"
+msgstr "トランザクションプラグイン"
+
+#: ../../source/contribute/glossary.rst:373
+msgid ""
+"Set of plugins that determine the kinds of transactions the network "
+"supports."
+msgstr "ネットワークがサポートするトランザクション種類を決定するプラグインのセット。"
+
+#: ../../source/contribute/glossary.rst:374
+msgid "Transfer Transaction"
+msgstr "転送トランザクション"
+
+#: ../../source/contribute/glossary.rst:376
+msgid ""
+"The most basic transaction used to send mosaics and messages between two "
+"accounts. Read :doc:`more <../concepts/transfer-transaction>`."
+msgstr ""
+"モザイクとメッセージの送信に使用される最も基本的なトランザクション。 :doc:`詳細 <../concepts/transfer-"
+"transaction>` を参照してください。"
+
+#: ../../source/contribute/glossary.rst:388
+msgid "The native currency of the Symbol blockchain."
+msgstr "Symbol ブロックチェーンの基軸通貨です。"

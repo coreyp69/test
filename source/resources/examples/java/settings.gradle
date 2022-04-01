@@ -1,0 +1,4 @@
+rootProject.name = 'symbol-sdk-examples'
+include 'crypto'
+include 'buffers'
+

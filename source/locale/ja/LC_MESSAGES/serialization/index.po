@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-present, NEM
+# This file is distributed under the same license as the symbol-docs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Yoshiyuki Ieyama <yukku0423+github@gmail.com>, 2021
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: symbol-docs 0.22.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-30 22:34+0000\n"
+"PO-Revision-Date: 2020-12-18 17:40+0000\n"
+"Last-Translator: Yoshiyuki Ieyama <yukku0423+github@gmail.com>, 2021\n"
+"Language-Team: Japanese (https://www.transifex.com/nemtech/teams/95744/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/serialization/index.rst:3
+msgid "Serialization"
+msgstr "シリアル化"
+
+#: ../../source/serialization/index.rst:5
+msgid ""
+"The `catbuffer schemas <https://github.com/symbol/catbuffer-schemas>`_ "
+"repository defines how the different Symbol entities type should be "
+"serialized (for example, Transactions). In combination with the `catbuffer-"
+"generators <https://github.com/symbol/catbuffer-generators>`_ project, "
+"developers can generate builder classes for a given set of programming "
+"languages."
+msgstr ""
+"`catbuffer スキーマ <https://github.com/symbol/catbuffer-schemas>`_ リポジトリは各 "
+"Symbol エンティティ (例としてトランザクション) がどのようにシリアライズされるべきかを定義しています。 `catbuffer-"
+"generators <https://github.com/symbol/catbuffer-generators>`_ "
+"プロジェクトと組み合わせると、開発者は特定のプログラミング言語用のビルダークラスを生成できます。"
+
+#: ../../source/serialization/index.rst:12
+msgid "Basic Types"
+msgstr "基本タイプ"
+
+#: ../../source/serialization/index.rst:98
+msgid "Enumerations"
+msgstr "列挙型"
+
+#: ../../source/serialization/index.rst:1018
+msgid ""
+"These are structures only meant to be included inside other structures. "
+"Their description is already present in the containing structures above and "
+"is only repeated here for completeness."
+msgstr ""
+"これらは他の構造の中に含まれることだけを意図した構造です。それらについては、すでに上記の包含構造にて説明されており、完全を期すために繰り返し表記しています。"

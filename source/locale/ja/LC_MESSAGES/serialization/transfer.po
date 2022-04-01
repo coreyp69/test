@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-present, NEM
+# This file is distributed under the same license as the symbol-docs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Yoshiyuki Ieyama <yukku0423+github@gmail.com>, 2021
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: symbol-docs 0.22.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-22 06:48+0000\n"
+"PO-Revision-Date: 2020-06-19 17:54+0000\n"
+"Last-Translator: Yoshiyuki Ieyama <yukku0423+github@gmail.com>, 2021\n"
+"Language-Team: Japanese (https://www.transifex.com/nemtech/teams/95744/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/serialization/transfer.rst:3
+msgid "Transfer Schemas"
+msgstr "転送スキーマ"
+
+#: ../../source/serialization/transfer.rst:5
+msgid ""
+"The `catbuffer schemas <https://github.com/symbol/catbuffer-schemas>`_ "
+"repository defines how each transaction type should be serialized. In "
+"combination with the `catbuffer-generators <https://github.com/symbol"
+"/catbuffer-generators>`_ project, developers can generate builder classes "
+"for a given set of programming languages."
+msgstr ""
+"`catbuffer スキーマ <https://github.com/symbol/catbuffer-schemas>`_ "
+"リポジトリは各トランザクションタイプがどのようにシリアライズされるべきかを定義しています。 `catbuffer-generators "
+"<https://github.com/symbol/catbuffer-generators>`_ "
+"プロジェクトと組み合わせると、開発者は特定のプログラミング言語用のビルダークラスを生成できます。"
+
+#: ../../source/serialization/transfer.rst:16
+msgid ""
+"Announce a TransferTransaction to send :doc:`mosaics <mosaic>` or messages "
+"between two :doc:`accounts <../concepts/account>`."
+msgstr ""
+":doc:`モザイク <mosaic>` またはメッセージを2つの :doc:`アカウント <../concepts/account>` "
+"間で送信するためには、転送トランザクションをアナウンスします。"
+
+#: ../../source/serialization/transfer.rst:22
+msgid "**Inlines**:"
+msgstr "**インライン**"
+
+#: ../../source/serialization/transfer.rst:24
+msgid ""
+":ref:`Transaction <transaction>` or :ref:`EmbeddedTransaction <embedded-"
+"transaction>`"
+msgstr ""
+":ref:`Transaction <transaction>` または :ref:`EmbeddedTransaction <embedded-"
+"transaction>`"
+
+#: ../../source/serialization/transfer.rst:1
+msgid "Property"
+msgstr "プロパティ"
+
+#: ../../source/serialization/transfer.rst:1
+msgid "Transaction recipient."
+msgstr "トランザクション受信者"
+
+#: ../../source/serialization/transfer.rst:1
+msgid "Size of the attached message."
+msgstr "添付されたメッセージのサイズ"
+
+#: ../../source/serialization/transfer.rst:1
+msgid "Number of attached mosaics."
+msgstr "添付モザイクの数"
+
+#: ../../source/serialization/transfer.rst:1
+#: ../../source/serialization/transfer.rst:1
+msgid "Reserved padding to align mosaics on 8-byte boundary."
+msgstr "モザイクを 8 バイト境界に揃える予約パディング"
+
+#: ../../source/serialization/transfer.rst:1
+msgid "Attached mosaics to send."
+msgstr "送信する添付モザイク"
+
+#: ../../source/serialization/transfer.rst:1
+msgid ":ref:`Message type <message-type>` and hexadecimal payload."
+msgstr ":ref:`メッセージタイプ <message-type>` と 16 進数のペイロード"
+
+#: ../../source/serialization/transfer.rst:43
+msgid ""
+"This is actually a :ref:`TransferTransaction <transfer-transaction>` with a "
+":ref:`Message type <message-type>` equal to ``0xFE``."
+msgstr ""
+"これは実際に :ref:`メッセージタイプ <message-type>` を添付した :ref:`TransferTransaction "
+"<transfer-transaction>` は ``0xFE`` に一致します。"
+
+#: ../../source/serialization/transfer.rst:1
+msgid "Plain message."
+msgstr "平文メッセージ"
+
+#: ../../source/serialization/transfer.rst:1
+msgid "Encrypted message."
+msgstr "暗号化メッセージ"
+
+#: ../../source/serialization/transfer.rst:1
+msgid "Persistent harvesting delegation."
+msgstr "永続的なハーベスティングのデリゲート"
